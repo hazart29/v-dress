@@ -1,0 +1,45 @@
+{
+    "baju": {
+        "default": [
+            "/baju/baju-default.png"
+        ],
+        "r": [
+            "/baju/seragam-pink.png",
+            "/baju/seragam-hijau.png"
+        ],
+        "sr": [
+            "/baju/seragam-osis.png"
+        ],
+        "ssr": [
+            "/baju/baju-maid.png"
+        ]
+    },
+    "celana": {
+        "default": [
+            "/celana/celana-default.png"
+        ],
+        "r": [
+            "/celana/rok-pink.png",
+            "/celana/rok-hijau.png"
+        ],
+        "sr": [
+        ],
+        "ssr": [
+        ]
+    },
+    "sepatu": {
+        "default": [
+            "/sepatu/sepatu-default.png"
+        ],
+        "r": [
+            "/sepatu/sepatu-pink.png",
+            "/sepatu/sepatu-hijau.png"
+        ],
+        "sr": [
+            ""
+        ],
+        "ssr": [
+            ""
+        ]
+    }
+}

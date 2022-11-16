@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 html,
 body {
   padding: 0;
@@ -15,6 +18,10 @@ a {
   box-sizing: border-box;
 }
 
+.bg-patterns {
+  background: url('/public/background/bathroom-floor.svg');
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
@@ -23,4 +30,24 @@ a {
     color: white;
     background: black;
   }
+  
+}
+
+.avatar {
+  background-image: url('../public/avatar/avatar.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bgroom {
+  background-image: url('/background/bgroom.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.bgvid {
+  background-image: url('/video/bg-gacha.gif');
+  background-repeat: repeat;
 }

@@ -1,0 +1,81 @@
+{
+    "baju": {
+        "ssr": [
+            {
+                "name": "Seifuku",
+                "url": "/baju/seifuku-biru.png",
+                "icon": "/icon/baju/ssr-seifuku.png",
+                "origin": "Jepang",
+                "event": true
+            },
+            {
+                "name": "Maid-medium",
+                "url": "/baju/maid-medium.png",
+                "icon": "/icon/baju/ssr-maid.png",
+                "origin": "Jepang",
+                "event": true
+            }
+        ],
+        "sr": [
+            {
+                "name": "SR",
+                "url": "SR",
+                "icon": "SR",
+                "origin": "",
+                "event": false
+            }
+        ],
+        "r": [
+            {
+                "name": "R",
+                "url": "R",
+                "icon": "R",
+                "origin": "",
+                "event": false
+            }
+        ]
+    },
+    "celana": {
+        "ssr": [
+            {
+                "name": "seifuku",
+                "url": "/celana/seifuku-biru.png",
+                "icon": "SSR",
+                "origin": "Jepang",
+                "event": true
+            },
+            {
+                "name": "Maid-medium",
+                "url": "/celana/maid-medium.png",
+                "icon": "SSR",
+                "origin": "Jepang",
+                "event": true
+            }
+        ]
+    },
+    "sepatu": {
+        "ssr": [
+            {
+                "name": "Seifuku",
+                "url": "/sepatu/pantoefl-coklat.png",
+                "icon": "SSR",
+                "origin": "Jepang",
+                "event": true
+            },
+            {
+                "name": "Maid-medium",
+                "url": "/sepatu/stocking-maid.png",
+                "icon": "SSR",
+                "origin": "Jepang",
+                "event": true
+            }
+        ]
+    },
+    "zonk": {
+        "name": "Zonk",
+        "url": "Zonk",
+        "icon": "Zonk",
+        "origin": "Zonk",
+        "event": false
+    }
+}

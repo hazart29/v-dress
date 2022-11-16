@@ -127,3 +127,7 @@
     filter: invert(1);
   }
 }
+
+.bg-patterns {
+  background: url('/public/background/bathroom-floor.svg');
+}
